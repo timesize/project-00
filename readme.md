@@ -47,8 +47,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### When is it due?
 
-* **Assigned:** Friday, Nov 6th
-* **Due:** Monday, Nov 9th @ 9:17am
+* **Assigned:** Friday, March 25th
+* **Due:** Monday, March 28th @ 9:17am
 
 ---
 
@@ -58,10 +58,11 @@ By the time you submit this project, you will have leveled-up in many big themes
 **Your app must:**
 
 * Use **jQuery**
-* Minimize the use of global variables
-* Abide by the **separation of concerns** principle with separate HTML, CSS, and JavaScript files
-* Leverage CSS styling for a pleasing and logical user experience
-* Stick with the **KISS** (Keep It Simple Stupid) and **DRY** (Don’t Repeat Yourself) principles
+* Minimize the use of global variables.
+* Integrate **Object Oriented Programming** design patterns.
+* Abide by the **separation of concerns** principle with separate HTML, CSS, and JavaScript files.
+* Leverage CSS styling for a pleasing and logical user experience.
+* Stick with the **KISS** (Keep It Simple Stupid) and **DRY** (Don’t Repeat Yourself) principles.
 * Include **a public Github repository** with frequent commits and descriptive commit messages!
 * Have useful documentation that you or other developers can reference later.
 
@@ -74,7 +75,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 **A user should be able to...**
 
 * See a **game board** on page load
-* Move their player by pressing a specific key
+* Move their player forward by pressing a specific key
 * See **who won** the round, or if it was a tie
 
 ---
@@ -85,7 +86,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 * A **working game, built by you**
 * A **git repository hosted on Github** with frequent commits dating back to the very beginning of the project
-* **A `readme`** with explanations of the **technologies used**, **existing features**, **planned features**, and anything else you'd like to add. See [example-readme](example-readme.md) as a guide, and use this <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet" target="_blank">markdown cheatsheet</a> to help with formatting.
+* **A `readme`** with explanations of the **technologies used**, **existing features**, **planned features**, and anything else you'd like to add. See the [example-readme](example-readme.md) as a guide, and use this <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet" target="_blank">markdown cheatsheet</a> to help with formatting.
 
 ---
 
@@ -107,8 +108,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### How should I begin approaching this?
 
-* Create a **NEW GitHub repository** from your GitHub account. Make sure you're in your `develop` folder, and create the project locally. Follow the steps to `git init` the new repo.
-* You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
+* Create a **NEW GitHub repository** from your GitHub account. Make sure you're in your class work folder, and create the project locally. Follow the steps to `git init` the new repo.
+* You'll need an `index.html`, `style.css`, and `app.js`. Make sure your stylesheet and JavaScript files are linked in `index.html`, and also include the CDNs you'll be using (Bootstrap, jQuery).
 
 ---
 
@@ -117,7 +118,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to a google spreadsheet we'll link here soon.
 
 ## Bonus
 
@@ -125,7 +126,6 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 These feature ideas are for "extra credit"! **Don't focus on them until you've hit the core requirements.**
 
-* Integrate **Object Oriented Programming** design patterns.
 * Keep track of **multiple game rounds** with a win counter.
 * Allow **customized players** (name, symbol, color, avatar, etc.).
 * Use <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage" target="_blank">localStorage</a> to **keep track of game state**, even if the user refreshes the page.
