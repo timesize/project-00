@@ -12,12 +12,18 @@ p {
 text-align: center;
  }
 
+ h1 {
+	 color: #fff;
+
+ }
+
 #d {
 	border-radius: 15px;
 	position:absolute;
 	color: #fff;
 	padding: 20px;
-	background-color: #2ecc71;
+	font-size: 25px;
+
 }
 
 #c {
@@ -25,7 +31,8 @@ text-align: center;
 	position:absolute;
 	color: #fff;
 	padding: 20px;
-	background-color: #e74c3c;
+	font-size: 25px;
+
 }
 
 .lane2 {

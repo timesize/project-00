@@ -15,9 +15,9 @@ $("body").keyup(function moveCar1 (e) {
         car2clicks++;
         console.log("car 2 has " + car2clicks + " moves");
     }if(car2clicks > 100){
-          alert("player 2 wins");
+          alert("Player 2 won!");
       } if (car1clicks > 100) {
-          alert("player 1 wins");
+          alert("Player 1 won!");
       }
   });
 
