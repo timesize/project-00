@@ -1,0 +1,39 @@
+body {
+	position: relative;
+	background-image: url(baybridgewesternspan.jpg);
+	min-height: 100%;
+	background-size: cover;
+	font-family: 'Marvel', sans-serif;
+	font-size: 1.2em;
+}
+
+h1,
+p {
+text-align: center;
+ }
+
+#d {
+	border-radius: 15px;
+	position:absolute;
+	color: #fff;
+	padding: 20px;
+	background-color: #2ecc71;
+}
+
+#c {
+	border-radius: 15px;
+	position:absolute;
+	color: #fff;
+	padding: 20px;
+	background-color: #e74c3c;
+}
+
+.lane2 {
+	margin-top: 100px;
+	background-color: #000;
+}
+
+.instructions {
+	margin-top: 200px;
+	text-align: center;
+}
